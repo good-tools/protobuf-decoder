@@ -1,0 +1,5 @@
+**/.eslintrc.js
+**/.eslintignore
+**/.parcel-cache
+**/.github/README.md
+coverage
