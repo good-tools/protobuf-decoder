@@ -4,6 +4,8 @@ Read raw protobuf buffers and return a readable representation of the data
 
 The protobuf encoding format can be found [here](https://developers.google.com/protocol-buffers/docs/encoding).
 
+Demo it on [good.tools](https://good.tools/protobuf-decoder).
+
 ## Usage
 
 ```javascript
